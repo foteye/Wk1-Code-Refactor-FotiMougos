@@ -4,14 +4,14 @@ Author: Foti Mougos
 
 ### //TODO:
 #### CSS
-[ ] Tidy up CSS & fix bugs - lots of CSS to consolidate, quotes missing etc<br>
-[ ] <br>
-[ ] Find out if * is valid CSS selector<br>
+[X] Tidy up CSS & fix bugs - lots of CSS to consolidate, quotes missing etc<br>
+[X] Find out if * is valid CSS selector - yup universal selector<br>
 <br>
+[ ] Site wigs out bigtime in mobile resolution
 
 #### HTML
 [ ] Crap title - make it more descriptive<br>
-[ ] Empty .hero div? Is it needed?<br>
+[X] Empty .hero div? Is it needed? - yup its the big picture<br>
 [ ] Alt attributes should work<br>
 [ ] Heading attributes in 'sequential' order
 
