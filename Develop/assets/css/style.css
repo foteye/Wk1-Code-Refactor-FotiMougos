@@ -6,6 +6,20 @@
 
 body {
     background-color: #d9dcd6;
+    min-height: 100vh;
+}
+
+.flex-container {
+    display: flex;
+    flex-direction: column;
+}
+
+.auto-resize {
+    display: table;
+}
+
+.flex-resize {
+    flex: 1;
 }
 
 header {
@@ -13,6 +27,7 @@ header {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
     color: #ffffff;
+    
 }
 
 header h1 {
@@ -39,6 +54,8 @@ header div ul {
 header div ul li {
     display: inline-block;
     margin-left: 25px;
+    padding-top: 5px;
+    padding-bottom: 5px;
 }
 
 a {
