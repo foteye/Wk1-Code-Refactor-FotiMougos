@@ -6,7 +6,7 @@ Author: Foti Mougos
 The customer Horiseon has not requested that we perform any changes to the content or styling of their website. They have requested that we improve the readability & maintainability of the code in their website. They have also requested that we ensure all links and images display correctly.
 
 ### Lessons Learned:
-Theres alot you can achieve with CSS that I thought was only possible/easy with jQuery libraries or bootstrap classes. HTML and CSS are reasonably forgiving if you have syntax errors. You can write elegant HTML without needing comments.
+Theres alot you can achieve with CSS that I thought was only possible/easy with jQuery libraries or bootstrap classes. HTML and CSS are reasonably forgiving if you have syntax errors. You can write elegant HTML without needing comments. Floats work in.. wierd ways. They are particular about the amount of pixels left on the page, so you have to be careful about using percentages with specific (px) sizes
 
 ### //CHANGES:
 #### CSS
@@ -17,8 +17,9 @@ Theres alot you can achieve with CSS that I thought was only possible/easy with 
 [X] CSS file has sensible spacing & formatting<br>
 [X] Consolidated a bunch of CSS tags that were for similar elements<br>
 [X] Removed redundant CSS properties<br>
-[X] Shifted around CSS properties to be near children i.e. .benefits comes before .benefits img and so on
-[X] Made header 'fixed' position to be always visible & allow for easier navigation
+[X] Shifted around CSS properties to be near children i.e. .benefits comes before .benefits img and so on<br>
+[X] Made header 'fixed' position to be always visible & allow for easier navigation<br>
+[X] Added margin to content images
 
 #### HTML
 [X] Basic title - make it more descriptive/sensible<br>
