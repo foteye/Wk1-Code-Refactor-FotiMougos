@@ -1,6 +1,6 @@
 # Code-Refactor
 Homework Week 1 - Code Refactor<br>
-Author: Foti Mougos
+Author: Foti Mougos<br>
 
 ### Brief:
 The customer Horiseon has not requested that we perform any changes to the content or styling of their website. They have requested that we improve the readability & maintainability of the code in their website. They have also requested that we ensure all links and images display correctly.
