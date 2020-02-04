@@ -19,7 +19,8 @@ Theres alot you can achieve with CSS that I thought was only possible/easy with 
 [X] Removed redundant CSS properties<br>
 [X] Shifted around CSS properties to be near children i.e. .benefits comes before .benefits img and so on<br>
 [X] Made header 'fixed' position to be always visible & allow for easier navigation<br>
-[X] Added margin to content images
+[X] Added margin to content images <br>
+[X] Adjusted margin in content and benefits sections to be percentage based. 70% for content, 20% for benefits, which leaves 10% for margins here (width wise)
 
 #### HTML
 [X] Basic title - make it more descriptive/sensible<br>
