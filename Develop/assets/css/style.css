@@ -146,6 +146,70 @@ p {
     text-align: center;
 }
 
+.footer {
+    color: black;
+}
+
 .footer h2 {
     font-size: 20px;
+}
+
+@media (max-width: 845px){
+
+    header h1{
+        margin: 20px 0;
+    }
+
+    header div ul li {
+        display: block;
+        font-size: 75%;
+    }
+
+    .hero {
+        position: absolute;
+        z-index: -2;
+    }
+
+    .center-content {
+        width: 100%;
+        position: relative;
+        top: 200px;
+        z-index: -1;
+    }
+
+    .content {
+        width: 90%;
+        display: table;
+        margin: 0 auto;
+        z-index: -1;
+        float: none;
+    }
+
+    .content * {
+        float: none;
+        width: 90%;
+        margin: 0 auto;
+        display: table;
+        text-align: center;
+    }
+
+    .content img {
+        max-width: 300px;
+        margin: 10px auto;
+    }
+
+    .benefits {
+        width: 40%;
+        display: table;
+        margin: 0 auto;
+        z-index: -1;
+        float: none;
+    }
+
+    .footer {
+        display: table;
+        width: 40%;
+        margin: 0 auto;
+    }
+
 }

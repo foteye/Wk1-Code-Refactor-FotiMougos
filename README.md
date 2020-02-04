@@ -21,6 +21,7 @@ Theres alot you can achieve with CSS that I thought was only possible/easy with 
 [X] Made header 'fixed' position to be always visible & allow for easier navigation<br>
 [X] Added margin to content images <br>
 [X] Adjusted margin in content and benefits sections to be percentage based. 70% for content, 20% for benefits, which leaves 10% for margins here (width wise)
+[X] Added media tag and fixed responsiveness for EVERYTHING.
 
 #### HTML
 [X] Basic title - make it more descriptive/sensible<br>
